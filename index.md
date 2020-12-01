@@ -4,7 +4,7 @@
 </head>
 
 # Lynx Scripts Privacy Policy
-[https://www.lynxscripts.com/](https://www.lynxscripts.com/)
+This is the Privacy Policy for [https://www.lynxscripts.com/](https://www.lynxscripts.com/).
 
 ## What information do we collect?
 
