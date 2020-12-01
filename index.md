@@ -1,4 +1,4 @@
-### Lynx Scripts Privacy Policy
+# Lynx Scripts Privacy Policy
 
 ## What information do we collect?
 
