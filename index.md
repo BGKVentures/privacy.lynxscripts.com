@@ -4,7 +4,7 @@
 </head>
 
 # Lynx Scripts Privacy Policy
-[https://www.lynxscripts.com/](https://www.lynxscripts.com/){:target="_blank"}
+[https://www.lynxscripts.com/](https://www.lynxscripts.com/){:target="_blank" rel="noopener"}
 
 ## What information do we collect?
 
