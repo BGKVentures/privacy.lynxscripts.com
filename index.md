@@ -2,7 +2,7 @@
 
 We collect information from you when you fill out an application, register as a client, or fill out autofill forms. **While using our products, any information entered is stored locally in your own device.**
  
-When applying or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, zip code, or credit card information (through Stripe, you may refer to their Privacy Policy here: https://stripe.com/privacy). You may, however, visit our site anonymously.
+When applying or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, zip code, or credit card information (through Stripe, you may refer to their Privacy Policy here: [https://stripe.com/privacy](https://stripe.com/privacy)). You may, however, visit our site anonymously.
 
 ## What do we use your information for?
 
