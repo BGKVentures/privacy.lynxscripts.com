@@ -1,3 +1,4 @@
+title: Lynx Scripts Privacy Policy
 ## What information do we collect?
 
 We collect information from you when you fill out an application, register as a client, or fill out autofill forms. **While using our products, any information entered is stored locally in your own device.**
