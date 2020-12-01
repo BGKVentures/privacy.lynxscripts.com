@@ -1,3 +1,8 @@
+<head>
+<!-- Favicon head tag -->
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 # Lynx Scripts Privacy Policy
 
 ## What information do we collect?
